@@ -9,7 +9,8 @@ Feel free to suggest more fantastic restaurants that you recommend!
 + Check detail information of each restaurant
 
 ## Screenshots
-
+![image](https://github.com/HWenSu/My-Restaurant-List/blob/312af3ecd37cc549cb11bac62406677d015efdf0/sreenshots/Home%20page.PNG)
+![image](https://github.com/HWenSu/My-Restaurant-List/blob/312af3ecd37cc549cb11bac62406677d015efdf0/sreenshots/Detail%20Page.PNG)
 
 ## Environment Requirements
 Node.js v20.12.2
@@ -35,5 +36,5 @@ npm install
 ```
 npm run start
 ```
-* In your browser, open (http://localhost:3000) to see the website.
+* In your browser, open http://localhost:3000 to see the website.
 
