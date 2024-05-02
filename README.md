@@ -5,12 +5,15 @@ Feel free to suggest more fantastic restaurants that you recommend!
 
 ## Features
 + Show all restaurants
-+ Search name, tags, content of restaurants by keywords
++ Search restaurants by name
++ Search restaurants by tags
 + Check detail information of each restaurant
 
 ## Screenshots
 ![image](https://github.com/HWenSu/My-Restaurant-List/blob/312af3ecd37cc549cb11bac62406677d015efdf0/sreenshots/Home%20page.PNG)
 ![image](https://github.com/HWenSu/My-Restaurant-List/blob/312af3ecd37cc549cb11bac62406677d015efdf0/sreenshots/Detail%20Page.PNG)
+![image](https://github.com/HWenSu/My-Restaurant-List/blob/6809e35d35693a8edf8efcd86b589dfc21fae55e/sreenshots/Search%20by%20name.PNG)
+![image](https://github.com/HWenSu/My-Restaurant-List/blob/6809e35d35693a8edf8efcd86b589dfc21fae55e/sreenshots/Search%20by%20tags.PNG)
 
 ## Environment Requirements
 Node.js v20.12.2
